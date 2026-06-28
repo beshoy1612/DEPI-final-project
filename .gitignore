@@ -1,2 +1,14 @@
-HAM10000_images_part_1/
-HAM10000_images_part_2/
+Multimodal-Medical-Triage-Assistan/nlp_model/
+*.h5
+*.pkl
+*.zip
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
