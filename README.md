@@ -377,22 +377,4 @@ http://localhost:8501
 - Larger dermatology datasets
 - Improved multimodal fusion strategies
 
----
 
-# 👨‍💻 Team Members
-
-- Khaled Omar Ibrahim
-- Kerolos Ramy Ayad
-- Salma Ayman Mohamed
-
----
-
-# 📄 License
-
-This project was developed for educational purposes only.
-
-It is **not intended for real clinical diagnosis** and should not replace professional medical advice.
-
----
-
-## ⭐ If you found this project useful, consider giving it a star on GitHub!
