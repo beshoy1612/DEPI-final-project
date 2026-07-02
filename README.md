@@ -336,15 +336,9 @@ Linux / macOS
 source venv/bin/activate
 ```
 
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
-# ▶️ Run
+#  Run
 
 ```bash
 streamlit run app.py
@@ -358,7 +352,7 @@ http://localhost:8501
 
 ---
 
-# 📷 Example Workflow
+#  Example Workflow
 
 1. Upload a skin lesion image.
 2. Enter the patient's clinical description.
@@ -368,7 +362,7 @@ http://localhost:8501
 
 ---
 
-# 📌 Future Improvements
+#  Future Improvements
 
 - Cloud deployment
 - Mobile application
